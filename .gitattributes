@@ -1,2 +1,5 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+
+frontend/package-lock.json linguist-generated
+frontend/dist/** linguist-generated
