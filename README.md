@@ -1,3 +1,5 @@
+*Türkçe · [English](README.en.md)*
+
 # Kocaeli Haber Haritası
 
 Kocaeli'deki haber sitelerinden otomatik olarak haber çeken, bunları kategorilere ayıran, metinden konum tespit edip koordinata çeviren ve harita üzerinde gösteren tam yığın uygulama.
